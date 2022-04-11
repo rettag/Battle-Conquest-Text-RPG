@@ -1,4 +1,5 @@
 # Battle Conquest Text RPG
-A text role play game made I made during the Shammy Game Jam at the Univerity of Michigan! We had 48 hours to create a game. Sadly, I joined late and only had about 12 hours. For my first game I thought it turned out awesome! I appreciate the simplistic vibe from text rpgs.
+![Battle Conquest](https://user-images.githubusercontent.com/73906088/162649292-a9fe479f-dd09-42bb-8534-3862a5cde2c6.PNG)
+### Summary
+This project was made during the Shammy Game Jam at the Univerity of Michigan. This project aims help me futher understand my knowledge of classes in C++. 
 
-Download all the .cpp and .h files and fun main.cpp to play the game.
